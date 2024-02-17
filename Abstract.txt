@@ -1,0 +1,9 @@
+Brain Tumor and hemorrhage detection using image pre-processing techniques with MATLAB
+
+
+ABSTRACT
+Brain tumor and brain hemorrhage are diseases that take a majority of lives every year. This project integrates advanced image process sing and machine learning techniques for brain tumor and hemorrhage detection. Utilizing MATLAB, the initial phase employs sophisticated filters to enhance medical images, reducing noise and artifacts. The subsequent region-based segmentation isolates regions of interest, simulating a virtual dissection for precise abnormality identification. Transitioning to machine learning, the project extracts features for quantitative analysis, offering a more efficient and accurate diagnostic approach. Collaborating with medical professionals ensures result validation and ethical considerations in application. The project envisions a future where this synergy becomes a cornerstone in medical diagnostics, elevating accuracy and expediting critical condition identification for improved patient care.  Future work may involve replicating the same tasks in Python, capitalizing on its rich library ecosystem and harnessing the capabilities of machine learning and deep learning models.  
+
+Keywords— Medical Image Processing, Brain Tumor Detection, Haemorrhage Identification, MATLAB, Image Pre-processing, Region-based Segmentation, Diagnostic Accuracy. 
+
+Reach out to me at mangotriniranjan01@outlook.com or on LinkedIn for if you have any queries or pull requests
